@@ -2,7 +2,7 @@ Requirements:
   Installed Discord Client on Windows
 
 
-Click on Releases, and download the newest by clicking on "PokéPresence.zip.
+Go to the newest Release ( ), and download PokéPresence
 
 Support - https://discord.gg/q3x4B8NJVQ
 
